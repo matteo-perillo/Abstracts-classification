@@ -1,0 +1,5 @@
+﻿,Parametro,Valori possibili
+0,Batch size,"512, 2048, 4096"
+1,Dropout rate,"0, 0.3"
+2,L2 reg,"0, 0.1"
+3,Num layers,"1, 5, 10"
